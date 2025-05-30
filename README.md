@@ -181,7 +181,7 @@ For more details, you can read the full license text in the [LICENSE](./LICENSE)
 **Q: How can I provide feedback or report issues?**  
 A: We welcome your feedback! You can:
 
-- Reach out to me on our [website](https://designtokenswizards.framer.website/)
+- Reach out to me on [website](https://designtokenswizards.framer.website/)
 - Fill out this [form](https://tally.so/r/m6V6Po/)
 
 **Q: I get a permission error or "command not found"?**  
@@ -232,7 +232,7 @@ Every coffee helps me:
 - Create more documentation and examples
 - Keep the magic alive! ✨
 
-Even a small contribution makes a big difference in keeping this project thriving. Thank you for being part of our magical community! 🧙‍♀️
+Even a small contribution makes a big difference in keeping this project thriving. Thank you for being part of this magical community! 🧙‍♀️
 
 ---
 
@@ -240,7 +240,7 @@ Even a small contribution makes a big difference in keeping this project thrivin
 
 ![Profile Picture](src/assets/profile_pic.png)
 
-Discover more about our wizards at: [Material Color System Website](https://designtokenswizards.framer.website/)
+Discover more about the little wizards at: [Design Tokens Wizards](https://designtokenswizards.framer.website/)
 
 If you're passionate about design systems and tokens, this tool is your perfect companion, allowing you to create tokens effortlessly. For RPG or JRPG fans, this tool will evoke a sense of nostalgia, blending classic gaming vibes with your design workflow. 🧩
 
