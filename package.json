@@ -1,10 +1,10 @@
 {
-  "name": "material-color-system",
+  "name": "material-color-wizard",
   "version": "1.0.0",
-  "description": "A magic spell to generate material design colors based on material design color system 🧝🏻",
+  "description": "A magic wizard assistant to generate material design colors based on material design color system 🧝🏻",
   "author": "Fulvia Buonanno ✨",
   "type": "module",
-  "main": "src/material_spell.js",
+  "main": "src/material_wiz.js",
   "scripts": {
     "material": "node src/material_wiz.js"
   },
