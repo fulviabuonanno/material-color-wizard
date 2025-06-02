@@ -6,7 +6,7 @@
   "type": "module",
   "main": "src/material_spell.js",
   "scripts": {
-    "material": "node src/material_wizjs"
+    "material": "node src/material_wiz.js"
   },
   "dependencies": {
     "@material/material-color-utilities": "^0.2.0",

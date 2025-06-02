@@ -1,11 +1,11 @@
-![Material Color Systemr](src/assets/banner.png)
+![Material Design Color Wizard](src/assets/banner.png)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E=18.0.0-brightgreen)
 
 > This script is part of the [Design Tokens Wizards](https://github.com/fulviabuonanno/design-tokens-wizards) project, a collection of tools for generating and managing design tokens.
 
-A powerful tool to generate Material Design color tokens and variables from base colors. This tool helps you create a complete Material Design color system with reference colors and system colors for both light and dark themes.
+A powerful tool to generate Material Design color tokens and variables from base colors. This tool helps you create a complete Material Design Color Wizard with reference colors and system colors for both light and dark themes.
 
 ## 🧙 Getting Started
 
@@ -43,15 +43,15 @@ A powerful tool to generate Material Design color tokens and variables from base
    ```
 
 6. **Run the Material Spell**  
-   Generate your Material Design color system:
+   Generate your Material Design Color Wizard:
 
    ```sh
    npm start
    ```
 
-## 🎨 Material Design Color System Generator
+## 🎨 Material Design Color Wizard
 
-The Material Design Color System Generator helps you create a complete color system following Material Design 3 guidelines. It generates both reference colors and system colors for light and dark themes.
+The Material Design Color Wizard helps you create a complete color system following Material Design 3 guidelines. It generates both reference colors and system colors for light and dark themes.
 
 ### Color Categories
 
@@ -233,8 +233,6 @@ Every coffee helps me:
 - Keep the magic alive! ✨
 
 Even a small contribution makes a big difference in keeping this project thriving. Thank you for being part of this magical community! 🧙‍♀️
-
----
 
 ## Created with Love in Barcelona by Fulvia Buonanno 🪄❤️
 
